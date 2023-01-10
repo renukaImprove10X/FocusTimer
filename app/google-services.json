@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807201159106",
+    "project_id": "focustimer-8e0e8",
+    "storage_bucket": "focustimer-8e0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807201159106:android:d83d4f88d89f530d90c85b",
+        "android_client_info": {
+          "package_name": "com.improve10x.focustimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807201159106-uergokqgh4q7b3a9bt5k3467vos2tvug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improve10x.focustimer",
+            "certificate_hash": "7504314f4aead7e56b58a172efe9917500973067"
+          }
+        },
+        {
+          "client_id": "807201159106-oj759b2qqdvh4gqesek5bemftm7o0cjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGw7UZsnzYnRnIe-rChF3gmyT3HVfGLNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807201159106-oj759b2qqdvh4gqesek5bemftm7o0cjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
